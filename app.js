@@ -1,5 +1,5 @@
+<!--this is a rock paper scissor game-->
 const startGameBtn = document.getElementById('start-game-btn');
-
 const ROCK = "ROCK";
 const PAPER = "PAPER";
 const SCISSOR = "SCISSOR";
